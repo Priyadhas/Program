@@ -2,8 +2,8 @@ public class oddoreven
 {
     public static void main (String [] args)
     {
-        int a=22;
-        if(a%2==0)
+        int j=21;
+        if(j%2==0)
         {
             System.out.println("The number is even");
         }
